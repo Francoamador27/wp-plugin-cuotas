@@ -1,0 +1,8 @@
+section.show-page {
+    display: flex;
+    justify-content: flex-start;
+    gap: 22px;
+}
+form {
+    margin: 10px;
+}
